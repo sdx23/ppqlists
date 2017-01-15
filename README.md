@@ -17,6 +17,14 @@ Diese sind wohlueberlegt und von einem Kenner (der Pepe-Kuh) zusammengestellt.
   - http://geizhals.de/?cat=WL-727947
   - http://geizhals.de/?cat=WL-729467
 
+## NAS/HTPC (ca. 500€)
+  http://geizhals.de/?cat=WL-753721
+  - 4 x Hot-Swap SATA Slots vorne (aber kein HW-RAID)
+  - RX 460 4 GiB mit Zero-Fan-Mode und HW-beschleunigtem HEVC En-/Decoding
+  - NVMe-SSD für's OS
+  - verstärktes "Desktop"gehäuse (man kann TV/Monitor draufstellen)
+  - 8 GiB RAM und ein Skylake Celeron
+
 ## Server (ca. alle €)
   http://geizhals.de/?cat=WL-666666
   - 3 TiB RAM
