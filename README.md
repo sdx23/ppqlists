@@ -12,17 +12,27 @@ Diese sind wohlueberlegt und von einem Kenner (der Pepe-Kuh) zusammengestellt.
 
 ## alt, unkategorisiert
 
-  - http://geizhals.de/?cat=WL-666666
   - http://geizhals.de/?cat=WL-692465
   - http://geizhals.de/?cat=WL-726645
   - http://geizhals.de/?cat=WL-727947
   - http://geizhals.de/?cat=WL-729467
 
+## Server (ca. alle €)
+  http://geizhals.de/?cat=WL-666666
+  - 3 TiB RAM
+  - CPUs: 88 Kerne, 176 Threads
+  - 120 TiB HDDs
+  - 14.4 TiB SSDs
+  - 2 x Quadro P6000 GPU (2 x 24 GiB)
 
-## Gen 6 Workstation
+## Gen 6 Workstation (ca. 1000€)
   http://geizhals.de/?cat=WL-732071
-  - Lüfter zu groß, falsche Specs des Herstellers
+  - Z170, i7-6700K und viel RAM
+  - schallgedämmtes Gehäuse ohne 5.25" und mit nur zwei 3.5"
+  - Lüfter zu groß (für dieses Mainboard). Zumindest der hintere muss ersetzt werden durch einen 120er. Der vordere verdeckt einen der RAM-Slots, sollte daher auch ersetzt werden.
 
-## Gen 7 Workstation
+## Gen 7 Workstation (ca. 1000€)
   http://geizhals.de/?cat=WL-752679
-  - Wasserkühlung
+  - Z270, i7-7700K und viel RAM
+  - schallgedämmtes Gehäuse mit reichlich 5.25" und 3.5" Slots
+  - Wasserkühlung (besser OC-geeignet als Gen6)
