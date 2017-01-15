@@ -10,13 +10,6 @@ Diese sind wohlueberlegt und von einem Kenner (der Pepe-Kuh) zusammengestellt.
 
 # Listen
 
-## alt, unkategorisiert
-
-  - http://geizhals.de/?cat=WL-692465
-  - http://geizhals.de/?cat=WL-726645
-  - http://geizhals.de/?cat=WL-727947
-  - http://geizhals.de/?cat=WL-729467
-
 ## NAS/HTPC (ca. 500€)
   http://geizhals.de/?cat=WL-753721
   - 4 x Hot-Swap SATA Slots vorne (aber kein HW-RAID)
@@ -39,8 +32,16 @@ Diese sind wohlueberlegt und von einem Kenner (der Pepe-Kuh) zusammengestellt.
   - schallgedämmtes Gehäuse ohne 5.25" und mit nur zwei 3.5"
   - Lüfter zu groß (für dieses Mainboard). Zumindest der hintere muss ersetzt werden durch einen 120er. Der vordere verdeckt einen der RAM-Slots, sollte daher auch ersetzt werden.
 
-## Gen 7 Workstation (ca. 1000€)
+## Gen 7 Workstation (ca. 1200€)
   http://geizhals.de/?cat=WL-752679
   - Z270, i7-7700K und viel RAM
+  - NVMe-SSD
   - schallgedämmtes Gehäuse mit reichlich 5.25" und 3.5" Slots
   - Wasserkühlung (besser OC-geeignet als Gen6)
+
+## alt, unkategorisiert
+  - http://geizhals.de/?cat=WL-692465
+  - http://geizhals.de/?cat=WL-726645
+  - http://geizhals.de/?cat=WL-727947
+  - http://geizhals.de/?cat=WL-729467
+
